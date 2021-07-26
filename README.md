@@ -36,7 +36,7 @@ This repository contains scripts to reproduce the analyses in "Deciphering the l
 
 ## Data Availability
 
-To use these scripts, please download demultiplexed reads from the Sequence Read Archive and/or data from Zenodo.
+To use these scripts, please download demultiplexed reads from the Sequence Read Archive (PRJNA726194) and/or data from Zenodo (10.5281/zenodo.5136551).
 
 ## Citation
 
