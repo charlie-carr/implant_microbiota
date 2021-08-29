@@ -34,3 +34,11 @@ rownames(contam_by_freq_0.2)[which(contam_by_freq_0.2$contaminant)]
 write.table(contam_by_freq_0.2, 
             file = "/home/ccarr/Documents/lab/implant_microbiota_study/data/contam_by_freq_0.2.txt", 
             sep = "\t", col.names = NA, quote = F)
+
+# Search for non-contaminants by prevalence
+not_contam_0.05 <- isNotContaminant(physeq, neg = "neg_ctrls", detailed = TRUE, threshold = 0.05)
+
+# Export decontam by prevalence results
+write.table(not_contam_0.05,
+            file = "/home/ccarr/Documents/lab/implant_microbiota_study/data/not_contam_0.05.txt",
+            sep = "\t", col.names = NA, quote = F)
