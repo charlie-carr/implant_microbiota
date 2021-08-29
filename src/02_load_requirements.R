@@ -40,3 +40,6 @@ st_meta <- st_meta[order(rownames(st_meta)), ]
 
 conc_data <- read.table("/home/ccarr/Documents/lab/implant_microbiota_study/data/dna_concs.txt", 
                         header = TRUE, row.names = 1, sep = "\t", check.names = FALSE, quote = "", stringsAsFactors = FALSE)
+
+clinical_meta <- read.table("/home/ccarr/Documents/lab/implant_microbiota_study/data/meta_clinical.txt",
+                            header = TRUE, row.names = 1, sep = "\t", check.names = FALSE, quote = "", stringsAsFactors = FALSE)
