@@ -40,4 +40,4 @@ To use these scripts, please download demultiplexed reads from the Sequence Read
 
 ## Citation
 
-The full citation will be updated after the manuscript is published.
+Carr C, Wilcox H, Burton JP, Menon S, Al KF, O’Gorman D, et al. (2021) Deciphering the low abundance microbiota of presumed aseptic hip and knee implants. PLoS ONE 16(9): e0257471. https://doi.org/10.1371/journal.pone.0257471
