@@ -1,6 +1,6 @@
 # Deciphering the low abundance microbiota of presumed aseptic hip and knee implants
 
-This repository contains scripts to reproduce the analyses in "Deciphering the low abundance microbiota of presumed aseptic hip and knee implants" (currently under review).
+This repository contains scripts to reproduce the analyses in "Deciphering the low abundance microbiota of presumed aseptic hip and knee implants".
 
 ## Contents
 
